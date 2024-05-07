@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/joywebsite/static/css/main.dd8645e9.css",
+    "main.js": "/joywebsite/static/js/main.9ba9c321.js",
+    "static/media/color-sharp.png": "/joywebsite/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/joywebsite/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/contact-info.png": "/joywebsite/static/media/contact-info.662ab1dcacd8b0ac9815.png",
+    "static/media/banner-bg.png": "/joywebsite/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/profile-pic (5).png": "/joywebsite/static/media/profile-pic (5).c155bdb74dae7eccfcfa.png",
+    "static/media/JV_s_Resume_Template.pdf": "/joywebsite/static/media/JV_s_Resume_Template.8bc1d2ad394273c026c1.pdf",
+    "static/media/CentraNo2-Bold.ttf": "/joywebsite/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/joywebsite/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/joywebsite/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img1.png": "/joywebsite/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/footer-bg.png": "/joywebsite/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img2.png": "/joywebsite/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/joywebsite/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/logo.png": "/joywebsite/static/media/logo.1c57a6503d7a06d08568.png",
+    "static/media/revicons.eot": "/joywebsite/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/joywebsite/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/joywebsite/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/joywebsite/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/joywebsite/index.html",
+    "static/media/nav-icon1.svg": "/joywebsite/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/joywebsite/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/joywebsite/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.dd8645e9.css.map": "/joywebsite/static/css/main.dd8645e9.css.map",
+    "main.9ba9c321.js.map": "/joywebsite/static/js/main.9ba9c321.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd8645e9.css",
+    "static/js/main.9ba9c321.js"
+  ]
+}
